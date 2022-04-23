@@ -1,14 +1,11 @@
 # world_time App
 
-Flutter project.
+Flutter projec
 
 ## Getting Started
 This app shows location time. Chosen by us.
 
 # Screenshots
-<p float = "left" padding = "100px">
-
-</p>
 
 <table>
   <tr>
