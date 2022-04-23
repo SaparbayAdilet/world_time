@@ -1,6 +1,6 @@
 # world_time App
 
-Flutter projec
+Flutter project.
 
 ## Getting Started
 This app shows location time. Chosen by us.
